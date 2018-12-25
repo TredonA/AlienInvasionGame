@@ -23,6 +23,7 @@
   <ItemGroup>
     <Compile Include="AlienInvasion.py" />
     <Compile Include="settings.py" />
+    <Compile Include="ship.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
